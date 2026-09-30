@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adhavan 👋</h1>
+<h1 align="center"> Adhavan </h1>
 <h3 align="center">Biomedical Engineering student at SRMIST KTR · Learning to code for healthcare</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-### 🧬 About me
-- 🎓 First-year Biomedical Engineering student at **SRM Institute of Science and Technology, Kattankulathur**
-- 🤝 Corporate team member at **GitHub Community SRM**
-- 🌱 Currently learning **Python** and **Git**
-- 🩺 Interested in where medicine meets technology: health data, medical signals and imaging
-- 🎯 Goal: build useful healthcare projects and share what I learn along the way
-- 🎧 Fun fact: obsessively loves alt music
+###  About me
+-  First-year Biomedical Engineering student at **SRM Institute of Science and Technology, Kattankulathur**
+-  Corporate team member at **GitHub Community SRM**
+-  Currently learning **Python** and **Git**
+-  Interested in where medicine meets technology: health data, medical signals and imaging
+-  Goal: build useful healthcare projects and share what I learn along the way
+-   obsessively loves alt music and can play guitar
 
 ### 🛠️ Tools I'm learning
 <p>
@@ -23,16 +23,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-### 🚧 Currently building
-- 🧮 **Health Calculator**: BMI, healthy weight range and daily water intake in Python *(in progress)*
-
-### 🗺️ Roadmap
-- [x] Create GitHub account
-- [ ] Learn Python basics
-- [ ] Finish first project
-- [ ] ECG / heart-rate signal analyzer
-- [ ] Health data dashboard
+### 
 
 ---
 
-<p align="center"><i>"Every expert was once a beginner."</i></p>
+<p align="center"><i>"Everything im not made me everything I am."</i></p>
